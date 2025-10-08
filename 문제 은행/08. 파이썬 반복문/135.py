@@ -1,0 +1,6 @@
+b = 'A'.lower()
+print("변환:", b)
+b = 'B'.lower()
+print("변환:", b)
+b = 'C'.lower()
+print("변환:", b)
