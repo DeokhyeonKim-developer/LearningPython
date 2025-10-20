@@ -1,4 +1,4 @@
-with open('C:\\Users\\TheEx\\OneDrive\\Desktop\\매수종목2.txt', 'rt', encoding='utf-8') as f:
+with open('C:\\Users\\사용자명\\OneDrive\\Desktop\\매수종목2.txt', 'rt', encoding='utf-8') as f:
     lines = f.readlines()
 
 종목_dict = {}
